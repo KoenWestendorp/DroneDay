@@ -1,0 +1,13 @@
+article.section {
+  height: 500px; }
+  article.section:nth-child(even) {
+    background-color: #F1F1F1; }
+  article.section div {
+    padding: 1px 20px; }
+  article.section h1 {
+    color: #2E3E50;
+    text-transform: uppercase; }
+    article.section h1 span {
+      opacity: 0.9; }
+
+/*# sourceMappingURL=sections.css.map */

@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,eAAe;EACb,MAAM,EAAE,KAAK;EAEb,+BAAiB;IACf,gBAAgB,ECJb,OAAO;EDMZ,mBAAG;IACD,OAAO,EAAE,QAAQ;EAEnB,kBAAE;IACA,KAAK,ECTF,OAAO;IDUV,cAAc,EAAE,SAAS;IAEzB,uBAAI;MACF,OAAO,EAAE,GAAG",
+"sources": ["sections.sass","variables.sass"],
+"names": [],
+"file": "sections.css"
+}
