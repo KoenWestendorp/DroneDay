@@ -3,8 +3,13 @@
 article.section
   height: 500px
 
+  &:nth-child(odd)
+    //.text_box
+      float: left
   &:nth-child(even)
     background-color: $grey
+    //.text_box
+      float: right
 
   div
     padding: 1px 20px
@@ -12,6 +17,13 @@ article.section
   h1
     color: $dark
     text-transform: uppercase
+    text-align: center
 
     span
       opacity: 0.9
+
+.wrapper
+
+.text_box
+  width: 45%
+  text-align: justify

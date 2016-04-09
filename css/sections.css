@@ -6,8 +6,13 @@ article.section {
     padding: 1px 20px; }
   article.section h1 {
     color: #2E3E50;
-    text-transform: uppercase; }
+    text-transform: uppercase;
+    text-align: center; }
     article.section h1 span {
       opacity: 0.9; }
+
+.text_box {
+  width: 45%;
+  text-align: justify; }
 
 /*# sourceMappingURL=sections.css.map */
